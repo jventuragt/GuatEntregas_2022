@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "214345012493",
+    "project_id": "guatentregas",
+    "storage_bucket": "guatentregas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214345012493:android:cebbf26ab185570b2acc44",
+        "android_client_info": {
+          "package_name": "com.guate.entregas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214345012493-fvfltgkkui48i8uvg3qvs0ipgib9bgq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guate.entregas",
+            "certificate_hash": "d9398248ab18a5a50c2b8504ee67232ce9e9de3a"
+          }
+        },
+        {
+          "client_id": "214345012493-lpk916l8saqdu5gqil7q45sd37f56sfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guate.entregas",
+            "certificate_hash": "c74343af8f43baf597a3ecce2af28db1431b7ac9"
+          }
+        },
+        {
+          "client_id": "214345012493-n9r9o5pid85f4c7muf6crpfhgfmjmgr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7xSgnIhqkjcgWtwjLNyrhuA-IiITNZqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214345012493-n9r9o5pid85f4c7muf6crpfhgfmjmgr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

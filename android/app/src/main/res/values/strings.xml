@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Curiosity</string>
+    <string name="facebook_app_id">4714246485310824</string> 
+    <string name="fb_login_protocol_scheme">fb4714246485310824</string>
+
+    <color name="com_facebook_button_background_color_focused_disabled">#3C5A99</color>
+    <color name="com_facebook_button_background_color_focused">#3C5A99</color>
+    <color name="com_facebook_button_border_color_focused">#3C5A99</color>
+</resources>
